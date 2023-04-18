@@ -1,7 +1,7 @@
 const Navbar = () => {
     return (
         <div>
-            Enter
+            <p className='divide-sky-600'>Enter</p>
         </div>
     );
 }
