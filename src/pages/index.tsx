@@ -5,7 +5,8 @@ export default function Home() {
   return (
     <main>
       <Navbar/>
-      <h1 className='text-5xl'>WOW</h1>
+      <h1 className='flex text-5xl justify-center'>WOW THIS HAS BEEN CENTERED ALFIE LOOK AT ME WAHOOO</h1>
+
     </main>
   )
 }
