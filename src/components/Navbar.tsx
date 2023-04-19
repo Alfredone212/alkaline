@@ -1,7 +1,7 @@
 const Navbar = () => {
     return (
         <div>
-            Enter
+            <p>Enter</p>
         </div>
     );
 }
